@@ -28,9 +28,12 @@
 
 <p align="left">
   <img width="48%" src="https://streak-stats.demolab.com/?user=Havkarr&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Havkarr&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+  &emsp;
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Havkarr&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Havkarr&repo=WrocRide&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff&hide_border=true" alt="GitHub repo-card Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Havkarr&repo=Wykrywanie_wad_serca&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff&hide_border=true" alt="GitHub repo-card Card" />
+  &emsp;
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Havkarr&repo=terraform_with_aws&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff&hide_border=true" alt="GitHub repo-card Card" />
 </p>
